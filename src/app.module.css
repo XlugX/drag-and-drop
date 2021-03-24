@@ -1,0 +1,24 @@
+body {
+    background: #c98cd3;
+}
+.app {
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+}
+.card {
+    width: 200px;
+    height: 300px;
+    border-radius: 12px;
+    border: 5px solid lightyellow;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 20px;
+    color: beige;
+    font-weight: 700;
+    cursor: grab;
+}
+
